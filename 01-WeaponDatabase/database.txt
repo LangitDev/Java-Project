@@ -1,0 +1,6 @@
+WE09-WE61-IE12,Blazing Thunder,Epic,Spear,1324
+WC01-IC01-IC01,Common Sword,Common,Sword,16
+WF09-IF81-IF01,Rising Dragon,Fine,Sword,239
+IE12-WE02-IE11,Phoenix Fire,Epic,Bow,1321
+WL99-WL12-IL03,Azure Lance,Legenday,Spear,2341
+IR02-WR21-IR11,Sky Wing,Rare,Bow,453

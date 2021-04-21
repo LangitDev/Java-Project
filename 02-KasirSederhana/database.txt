@@ -1,0 +1,6 @@
+Gula 1kg,12300,12100
+Gula 1/2kg,6200,0
+Teh Gunung Satria,4500,4300
+Gandum LM 1kg,7300,7100
+Gandum LM 1/2kg,3700,0
+Sarden Benteng,6500,6300

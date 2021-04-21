@@ -1,0 +1,60 @@
+16 april 2021,Gula 1kg,12300,*  2,=  24600
+16 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+16 april 2021,Gandum LM 1kg,7300,*  2,=  14600
+16 april 2021,Minyak Alif 1L,14000,*  1,=  14000
+16 april 2021,---------------------------------------,Total Belanja,-- =,-- 57700
+   ,   ,   ,   ,   ,16 april 2021
+16 april 2021,Gula 1kg,12300,*  2,=  24600
+16 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+16 april 2021,Kopi Kapal Api 65g,5000,*  1,=  5000
+16 april 2021,Indomie Goreng 1bks,2800,*  10,=  28000
+16 april 2021,---------------------------------------,Total Belanja,-- =,-- 62100
+   ,   ,   ,   ,   ,16 april 2021
+17 april 2021,Gula 1kg,12300,*  2,=  24600
+17 april 2021,---------------------------------------,Total Belanja,-- =,-- 24600
+   ,   ,   ,   ,   ,17 april 2021
+17 april 2021,Gula 1/2kg,6200,*  1,=  6200
+17 april 2021,---------------------------------------,Total Belanja,-- =,-- 6200
+   ,   ,   ,   ,   ,17 april 2021
+17 april 2021,Gula 1kg,12300,*  1,=  12300
+17 april 2021,Gandum LM 1kg,7300,*  1,=  7300
+17 april 2021,---------------------------------------,Total Belanja,-- =,-- 19600
+   ,   ,   ,   ,   ,17 april 2021
+18 april 2021,Gandum LM 1kg,7300,*  2,=  14600
+18 april 2021,Gula 1kg,12300,*  2,=  24600
+18 april 2021,---------------------------------------,Total Belanja,-- =,-- 39200
+   ,   ,   ,   ,   ,18 april 2021
+17 april 2021,Gula 1kg,12300,*  1,=  12300
+17 april 2021,Gandum LM 1kg,7300,*  2,=  14600
+17 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+17 april 2021,Sarden Benteng,6500,*  1,=  6500
+17 april 2021,---------------------------------------,Total Belanja,-- =,-- 37900
+   ,   ,   ,   ,   ,17 april 2021
+18 april 2021,Gula 1kg,12300,*  2,=  24600
+18 april 2021,Gandum LM 1kg,7300,*  1,=  7300
+18 april 2021,---------------------------------------,Total Belanja,-- =,-- 31900
+   ,   ,   ,   ,   ,18 april 2021
+18 april 2021,Gula 1kg,12300,*  2,=  24600
+18 april 2021,Gandum LM 1kg,7300,*  3,=  21900
+18 april 2021,---------------------------------------,Total Belanja,-- =,-- 46500
+   ,   ,   ,   ,   ,18 april 2021
+19 april 2021,Gula 1kg,12300,*  2,=  24600
+19 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+19 april 2021,Sarden Benteng,6500,*  1,=  6500
+19 april 2021,---------------------------------------,Total Belanja,-- =,-- 35600
+   ,   ,   ,   ,   ,19 april 2021
+19 april 2021,Gula 1kg,12300,*  1,=  12300
+19 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+19 april 2021,---------------------------------------,Total Belanja,-- =,-- 16800
+   ,   ,   ,   ,   ,19 april 2021
+19 april 2021,Gandum LM 1kg,7300,*  2,=  14600
+19 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+19 april 2021,Gula 1kg,12300,*  2,=  24600
+19 april 2021,---------------------------------------,Total Belanja,-- =,-- 43700
+   ,   ,   ,   ,   ,19 april 2021
+19 april 2021,Gula 1kg,12300,*  2,=  24600
+19 april 2021,Teh Gunung Satria,4500,*  1,=  4500
+19 april 2021,Sarden Benteng,6500,*  1,=  6500
+19 april 2021,Gandum LM 1kg,7300,*  2,=  14600
+19 april 2021,---------------------------------------,Total Belanja,-- =,-- 50200
+   ,   ,   ,   ,   ,19 april 2021
